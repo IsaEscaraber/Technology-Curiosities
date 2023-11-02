@@ -2,15 +2,11 @@
 
 ![Screenshot 2023-11-02 150133](https://github.com/IsaEscaraber/Technology-Curiosities/assets/60775472/66f354aa-7efb-4bf9-a610-42ec33bfb639)
 
-<h4 align="center"> 
-    <img src="https://img.shields.io/static/v1?label=STATUS&message=COMPLETED&color=2FCB75&style=for-the-badge"/>
-</h4>
-
 # Índice 
 
 * [Title and Cover Image](#Title-and-Cover-Image)
-* [Emblems](#emblems)
 * [Index](#index)
+* [Emblems](#emblems)
 * [Project Description](#project-description)
 * [Project Status](#Project-Status)
 * [Features and Application Demonstration](#functionalities-and-application-demonstration)
@@ -18,6 +14,12 @@
 * [Technologies used](#technologies-used)
 * [License](#license)
 * [Contributing People](#contributing-people)
+
+
+<h4 align="center"> 
+    <img src="https://img.shields.io/static/v1?label=STATUS&message=COMPLETED&color=2FCB75&style=for-the-badge"/>
+</h4>
+
 
 # 📖 Description
 
