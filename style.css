@@ -1,0 +1,160 @@
+@charset "UTF-8"; /* Why you have the same of UTF-8, you already did it on meta HTML- remove it*/
+@font-face {
+  font-family: "idroid";
+  src: url("fontes/idroid.otf") format("opentype");
+}
+
+body {
+  background-color: #84e1ad;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+header {
+  padding-top: 20px;
+  text-align: center;
+  color: white;
+  background: linear-gradient(to top, #003518, #35df81);
+}
+header > h1 {
+  margin-top: 0;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-shadow: 1px 1px 7px black;
+}
+header > p {
+  padding-bottom: 20px;
+  text-shadow: 1px 1px 7px black;
+}
+header > nav {
+  box-shadow: 4px 4px 8px #26252594;
+  background-color: #1a5c38;
+  padding: 10px 0px 10px 20px;
+  text-align: left;
+}
+.navLinks {
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  margin-left: 5px;
+  margin-right: 10px;
+}
+.navLinks:hover {
+  background-color: #35df81;
+  padding: 10px;
+  border-radius: 5px;
+  color: #003518;
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 200ms;
+}
+main {
+  box-shadow: 0px 8px 10px 2px #26252560;
+  background-color: white;
+  margin: auto;
+  max-width: 900px;
+  padding: 20px 0px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 0px 0px 10px 10px;
+}
+main > h1 {
+  font-family: "idroid";
+  text-align: left;
+  color: #176338;
+  padding: 0px 20px;
+  margin: 0;
+}
+main > h2 {
+  font-family: "idroid";
+  text-align: left;
+  background: linear-gradient(to right, #8ffabe, #ffffff);
+  padding-left: 10px;
+  color: #136b39;
+  margin-left: 20px;
+}
+main > p {
+  text-align: justify;
+  text-indent: 20px;
+  padding: 0px 20px;
+}
+span {
+  color: rgb(7, 116, 56);
+  font-weight: 800;
+}
+.contentLink > a {
+  background-color: #8ffabe;
+  padding: 0px 10px;
+  text-decoration: none;
+  color: rgb(7, 116, 56);
+}
+.contentLink > a:hover {
+  text-decoration: underline;
+}
+.contentLink > img {
+  background-color: #8ffabe;
+  max-height: 18px;
+  margin: auto;
+  color: #136b39;
+}
+#videoAndroid {
+  height: 466px;
+  background-color: #1a5c38;
+  padding: 30px;
+  min-height: 466px;
+}
+
+#extra {
+  box-shadow: 3px 4px 8px #26252560;
+  background-color: #c5ebd6;
+  margin: 20px;
+  border-radius: 10px;
+  padding-bottom: 15px;
+}
+#subtitle {
+  background-color: #2fa866;
+  margin: 0;
+  padding: 10px;
+  color: white;
+  text-align: left;
+  border-radius: 10px 10px 0px 0px;
+}
+#extra > p {
+  text-align: justify;
+  text-indent: 20px;
+  padding: 0px 10px;
+}
+ul {
+  margin: 0;
+  padding-left: 30px;
+  list-style-image: url();
+}
+#lists {
+  text-decoration: underline;
+  display: flex;
+  max-width: 860px;
+  padding: 0;
+  margin: 0;
+}
+#list1 {
+  text-align: left;
+  width: 50%;
+  padding: 5px;
+}
+#list2 {
+  text-align: left;
+  width: 50%;
+  padding: 5px;
+}
+footer {
+  margin-top: 20px;
+  text-align: center;
+  padding: 5px;
+  color: white;
+  background-color: #01441f;
+}
+footer > p {
+  margin: 0;
+}
+.author {
+  color: white;
+}
