@@ -1,38 +1,35 @@
 # Technology-Curiosities
 
+![Screenshot 2023-11-02 150133](https://github.com/IsaEscaraber/Technology-Curiosities/assets/60775472/66f354aa-7efb-4bf9-a610-42ec33bfb639)
 
- ![capa projeto html-css](https://github.com/IsaEscaraber/LearningHTML_CSS/assets/60775472/429dff0d-0042-4c51-9406-a7961a05d74f)
-
- <p align="center"><img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-</p>
+<img src="https://img.shields.io/static/v1?label=STATUS&message=COMPLETED&color=2FCB75&style=for-the-badge&logo=ghost"/>
 
 # Índice 
 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Badges](#badges)
-* [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Conclusão](#conclusão)
+* [Title and Cover Image](#Title-and-Cover-Image)
+* [Emblems](#emblems)
+* [Index](#index)
+* [Project Description](#project-description)
+* [Project Status](#Project-Status)
+* [Features and Application Demonstration](#functionalities-and-application-demonstration)
+* [Project Access](#project-access)
+* [Technologies used](#technologies-used)
+* [License](#license)
+* [Contributing People](#contributing-people)
 
 # 📖 Description
 
- Website about the Android creating during the course challenge
-
+ Project creating during the challenge 10 of the Video em Curso. This is a website that describes the history of Android and some curiosities. It has images, links and tables.
 
 ---
 <h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
+    :construction:  Project built successfully :construction:
 </h4>
 
 #  :hammer: Project features
 
 - `Functionalities 1`: Archive my exercises using HTML and CSS technologies during the course
-- `Functionalities 2`: Acessar meus codigos sempre que necessario relembrar algo.
+- `Functionalities 2`: Access my codes whenever I need to remember something.
 - `Functionalities 3`: Organize my studies and codes made throughout the course
 
   
@@ -52,6 +49,8 @@
 - ``HTML``
 - ``CSS``
 - ``GIT``
+
+<img src="https://img.shields.io/static/v1?label=Lincense&message=MIT&color=FFFF01&style=for-the-badge&logo=ghost"/>
 
 # 👋🤓	Author
 
